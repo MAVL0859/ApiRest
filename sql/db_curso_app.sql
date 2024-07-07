@@ -11,3 +11,5 @@ CREATE TABLE persona(
     direccion VARCHAR(250),
     edad INT
 );
+
+SELECT * FROM persona;
